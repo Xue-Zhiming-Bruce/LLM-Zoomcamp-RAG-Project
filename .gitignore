@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# IDE / Editor
+.vscode/
+.idea/
+.trae/
+
+# OS
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Data and generated artifacts
+qdrant_storage/
+qdrant_data/
+*.pkl
+
+# Node / Frontend
+node_modules/
+
+# Build outputs
+build/
+dist/
